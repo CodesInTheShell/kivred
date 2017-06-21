@@ -1,4 +1,16 @@
-from threading import Thread
+###############################################################################################
+#                                                                                             #
+#    Kivred is a software to fetch threat intelligence data from feeds on a taxxi server.     #
+#                                                                                             #
+#    The author(s) is not liable for any damages arising from the use of this software and    #
+#    is not giving any kind of guarantee that it works properly for the intended purpose.     #
+#                                                                                             #
+#    Anyone from anywhere can contribute to improve this software.                            #
+#                                                                                             #
+###############################################################################################
+
+
+from threading import Thread # Implement this for the run button to avoid a (Not Responding) window.
 
 from tkinter import *
 from tkinter import messagebox, ttk
