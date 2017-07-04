@@ -42,12 +42,19 @@ Available feeds:
 
 More information can be found in there website.
 
+===========================================================================================================
+How to use Kivred?
+
+See Kivred in action here: http://intelsecuretech.blogspot.com/2017/06/using-kivred-to-fetch-threat.html
+
 NOTES:
 
 When receiving a chunk size error on your request, maybe it is due to a large volume of data.
 You may need to shorten the from and to stamp. A length of one day can give you a huge amount of result.
 
 When nothing is shown on Indicators, Observables and TTPs, you may want to check the raw output for issue.
+
+
 
 
 
